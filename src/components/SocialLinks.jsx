@@ -16,7 +16,7 @@ const socialLinks = [
     displayName: "Let's Connect",
     subText: "on LinkedIn",
     icon: Linkedin,
-    url: "https://www.linkedin.com/in/ekizr/",
+    url: "https://www.linkedin.com/in/muhammad-nabil-sutisna-b98809332/",
     color: "#0A66C2",
     gradient: "from-[#0A66C2] to-[#0077B5]",
     isPrimary: true,
@@ -24,9 +24,9 @@ const socialLinks = [
   {
     name: "Instagram",
     displayName: "Instagram",
-    subText: "@ekizr_",
+    subText: "@billz.192",
     icon: Instagram,
-    url: "https://www.instagram.com/ekizr_/?hl=id",
+    url: "https://www.instagram.com/billz.192",
     color: "#E4405F",
     gradient: "from-[#833AB4] via-[#E4405F] to-[#FCAF45]",
   },
@@ -35,7 +35,7 @@ const socialLinks = [
     displayName: "Youtube",
     subText: "@eki zulfar",
     icon: Youtube,
-    url: "https://www.youtube.com/@eki_zulfar",
+    url: "https://www.youtube.com/",
     color: "#FF0000",
     gradient: "from-[#FF0000] to-[#CC0000]",
   },
@@ -44,14 +44,14 @@ const socialLinks = [
     displayName: "Github",
     subText: "@EkiZR",
     icon: Github,
-    url: "https://github.com/EkiZR",
+    url: "https://github.com/billz.1910",
     color: "#ffffff",
     gradient: "from-[#333] to-[#24292e]",
   },
   {
     name: "TikTok",
     displayName: "Tiktok",
-    subText: "@eki_zulfar",
+    subText: "",
     icon: ({ className, ...props }) => (
       <svg
         width="24px"
