@@ -107,15 +107,15 @@ const techStacks = [
   { icon: "html.svg", language: "HTML" },
   { icon: "css.svg", language: "CSS" },
   { icon: "javascript.svg", language: "JavaScript" },
-  { icon: "tailwind.svg", language: "Tailwind CSS" },
   { icon: "reactjs.svg", language: "ReactJS" },
   { icon: "vite.svg", language: "Vite" },
   { icon: "nodejs.svg", language: "Node JS" },
   { icon: "bootstrap.svg", language: "Bootstrap" },
-  { icon: "firebase.svg", language: "Firebase" },
-  { icon: "MUI.svg", language: "Material UI" },
+  { icon: "burp.svg", language: "BurpSuite" },
+  { icon: "arch.svg", language: "Arch Linux" },
   { icon: "vercel.svg", language: "Vercel" },
-  { icon: "SweetAlert.svg", language: "SweetAlert2" },
+  { icon: "kali.svg", language: "Kali Linux" },
+  { icon: "ubuntu.svg", language: "Ubuntu" },
 ];
 
 export default function FullWidthTabs() {
@@ -298,7 +298,7 @@ export default function FullWidthTabs() {
             />
             <Tab
               icon={<Boxes className="mb-2 w-5 h-5 transition-all duration-300" />}
-              label="Tech Stack"
+              label="Experience"
               {...a11yProps(2)}
             />
           </Tabs>
